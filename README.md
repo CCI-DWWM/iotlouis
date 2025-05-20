@@ -37,7 +37,6 @@ Listes objets connectés :
 
 
 → Avec utilisation de Node-RED, simuler un capteur de t° et humidité & créer un dashboard pour la visualisation des valeurs
-![{434AEF53-4D8A-498E-8938-0CF3E041C931}](https://github.com/user-attachments/assets/de17be88-e58d-4dfe-93d2-86579983a085)
 ![{13838F31-B4A6-4405-9B61-BADEDF8B0188}](https://github.com/user-attachments/assets/7b8a855e-9e1b-41a8-819c-7667f6f869c1)
 
 ![{A5B4FF1B-5BE3-4A5E-885E-2826BCAEA858}](https://github.com/user-attachments/assets/2e24e202-2910-49da-9ad9-0664eaf3a063)
